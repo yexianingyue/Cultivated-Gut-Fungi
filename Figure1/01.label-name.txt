@@ -1,0 +1,210 @@
+LABELS
+SEPARATOR TAB
+
+DATA
+PK3305	Trichomonascaceae c115	#000000	30
+Y4102	Trichomonascaceae c145	#000000	30
+M94-02A	Cutaneotrichosporon c166	#000000	30
+B5901	Trichomonascaceae c175	#000000	30
+Y128-05C	Debaryomycetaceae c189	#000000	30
+R5324	Schizotheciaceae c195	#000000	30
+2NR913A	Debaryomycetaceae c6	#000000	30
+PX1910	Trichomonascaceae c69	#000000	30
+PB005A	Trichosporon c100	#000000	30
+PB3310	Pichia c101	#000000	30
+PDH2405	Hypoxylon c103	#000000	30
+PF1801	Staphylotrichum c104	#000000	30
+PF2412A	Penicillium c109	#000000	30
+PG4201	Fusarium c111	#000000	30
+PT4103	Penicillium c121	#000000	30
+PX1902	Talaromyces c122	#000000	30
+PYS4301M	Staphylotrichum c125	#000000	30
+R13A2	Aphanoascus c126	#000000	30
+R9002	Periconia c133	#000000	30
+S1701	Penicillium c135	#000000	30
+S30-09	Rhodotorula c137	#000000	30
+S3808	Lecanicillium c139	#000000	30
+Y4206	Kazachstania c146	#000000	30
+PT2105A-2	Naganishia c148	#000000	30
+P115-07	Irpex c155	#000000	30
+PG99-01B2	Irpex c156	#000000	30
+F8603	Irpex c157	#000000	30
+F6312	Wickerhamiella c158	#000000	30
+DX6506	Starmerella c159	#000000	30
+Y93-05	Schizophyllum c160	#000000	30
+P118-02	Talaromyces c161	#000000	30
+M118-08B	Pseudozyma c163	#000000	30
+P6409Y	Exophiala c168	#000000	30
+Y128-05A	Aureobasidium c169	#000000	30
+DX126-06A	Aureobasidium c170	#000000	30
+M94-06F	Pseudopithomyces c174	#000000	30
+M7501	Mucor c176	#000000	30
+M5902	Umbelopsis c179	#000000	30
+DX115-01	Saturnispora c182	#000000	30
+P8426	Kazachstania c183	#000000	30
+Y91-04	Wickerhamomyces c188	#000000	30
+R96-07A1	Furcasterigmium c196	#000000	30
+S80-01Y	Botryosphaeria c197	#000000	30
+R8901	Orbilia c198	#000000	30
+R9020	Cystobasidium c2	#000000	30
+PG106-07D	Penicillium c203	#000000	30
+S103-07	Penicillium c204	#000000	30
+PG113-03A	Penicillium c205	#000000	30
+M1327	Penicillium c33	#000000	30
+PG4208	Wickerhamomyces c46	#000000	30
+PK4640	Cutaneotrichosporon c47	#000000	30
+PT3311B	Cutaneotrichosporon c55	#000000	30
+PB3601	Talaromyces c59	#000000	30
+PDH3307A	Cutaneotrichosporon c61	#000000	30
+PG2902	Penicillium c66	#000000	30
+PG3902-1	Naganishia c67	#000000	30
+PYS2103	Talaromyces c68	#000000	30
+PH3313A	Pascua c70	#000000	30
+PT30-03-2	Coniochaeta c72	#000000	30
+R4402	Thermothielavioides c75	#000000	30
+PYS2703	Syncephalastrum c76	#000000	30
+R4601	Scopulariopsis c79	#000000	30
+B11D1	Scopulariopsis c81	#000000	30
+B14P1	Talaromyces c82	#000000	30
+B2702	Staphylotrichum c84	#000000	30
+F3606	Talaromyces c89	#000000	30
+R3503	Onygenales c132	#000000	30
+M8501	Microascales c193	#000000	30
+M70-01Q	Ascomycota c194	#000000	30
+2NM914A	Trichosporon ovoides c1	#000000	30
+PK3901	Nakaseomyces glabratus c10	#000000	30
+PB4207	Barnettozyma californica c102	#000000	30
+PF1803	Penicillium hispanicum c105	#000000	30
+S5503	Lichtheimia ramosa c106	#000000	30
+PF2202	Zygosaccharomyces pseudobailii c107	#000000	30
+PF2411	Penicillium expansum c108	#000000	30
+PB4204	Aspergillus fumigatus c11	#000000	30
+PF4103	Trichoderma koningii c110	#000000	30
+PH4014	Lodderomyces elongisporus c112	#000000	30
+PK20-01	Aspergillus lentulus c113	#000000	30
+PK2101B	Rhodotorula mucilaginosa c114	#000000	30
+PN006	Lichtheimia corymbifera c116	#000000	30
+PT1902	Lichtheimia ornata c117	#000000	30
+PT2906	Rhizopus microsporus c118	#000000	30
+PT3102	Trichoderma asperelloides c119	#000000	30
+PF30-2	Aspergillus flavus c12	#000000	30
+PT3309	Yarrowia lipolytica c120	#000000	30
+PYS2302	Syncephalastrum monosporum c123	#000000	30
+PYS2810	Trichoderma longibrachiatum c124	#000000	30
+R1802	Sarocladium implicatum c127	#000000	30
+R2309	Aspergillus nidulans c128	#000000	30
+R2406	Hypoxylon pulicicidum c129	#000000	30
+Y4020	Aspergillus sp. c13	#000000	30
+R2409	Cladosporium sp. c130	#000000	30
+R2504	Aspergillus baeticus c131	#000000	30
+S1123A	Fusarium verticillioides c134	#000000	30
+S2904	Aspergillus amoenus c136	#000000	30
+S3305	Debaryomyces hansenii c138	#000000	30
+P8010B	Pichia manshurica c14	#000000	30
+X1601	Talaromyces amestolkiae c140	#000000	30
+X1902-2	Meyerozyma guilliermondii c141	#000000	30
+Y1112B	Cyberlindnera jadinii c142	#000000	30
+Y1806	Naumovozyma castellii c143	#000000	30
+Y4009A	Aspergillus japonicus c144	#000000	30
+PA3604	Aspergillus sp. c147	#000000	30
+M30-05A-2	Rhodotorula mucilaginosa c149	#000000	30
+PB2809B	Pichia kudriavzevii c15	#000000	30
+M6601	Irpex lacteus c150	#000000	30
+Y8604A	Irpex lacteus c151	#000000	30
+Y119-03	Irpex lacteus c152	#000000	30
+Y100-08	Irpex lacteus c153	#000000	30
+Y127-01C1	Irpex lacteus c154	#000000	30
+PH4033	Penicillium sp. c16	#000000	30
+R5906	Talaromyces thailandensis c162	#000000	30
+M119-17A	Rhodotorula toruloides c164	#000000	30
+PG5214	Cutaneotrichosporon curvatum c165	#000000	30
+PG5501	Trametes sp. AH28-2 c167	#000000	30
+PYS2905	Meyerozyma caribbica c17	#000000	30
+P5906	[Candida] intermedia c171	#000000	30
+R6205-2	Kodamaea ohmeri c172	#000000	30
+F7403A	Diutina rugosa c173	#000000	30
+PG92-21	Rhizopus stolonifer c177	#000000	30
+F127-10	Rhizomucor miehei c178	#000000	30
+RG13M1	Talaromyces funiculosus c18	#000000	30
+R5919	Hanseniaspora pseudoguilliermondii c180	#000000	30
+R80-11	Hanseniaspora thailandica (nom. inval.) c181	#000000	30
+B5408	Kazachstania servazzii c184	#000000	30
+F7312	Nakaseomyces bracarensis c185	#000000	30
+M5909	Torulaspora delbrueckii c186	#000000	30
+Y6105	Debaryomyces nepalensis c187	#000000	30
+PH3801	Penicillium oxalicum c19	#000000	30
+PG5505	Cunninghamella sp. c190	#000000	30
+Y131-23	Candida dubliniensis c191	#000000	30
+DX7706-2	Schizosaccharomyces pombe c192	#000000	30
+R121-14B	Penicillium sumatraense c199	#000000	30
+R1910	Candida albicans c20	#000000	30
+DX136-07W	Penicillium glabrum c200	#000000	30
+S90-01	Penicillium freii c201	#000000	30
+M103-07B1	Penicillium rolfsii c202	#000000	30
+DX121-18F	Aspergillus sp. c206	#000000	30
+PF3311	Candida sp. c21	#000000	30
+P1003	Mucor circinelloides c22	#000000	30
+PT2201-2	Mucor circinelloides c23	#000000	30
+F1605B	Pichia fermentans c24	#000000	30
+Y2001A1	Aspergillus sp. c25	#000000	30
+F2013-T	Pichia occidentalis c26	#000000	30
+PG3606D	Aspergillus sp. c27	#000000	30
+PM3604	Aspergillus sp. c28	#000000	30
+M6011	Trichosporon asahii c29	#000000	30
+Y3614	Aspergillus sp. c3	#000000	30
+J7Y3	Talaromyces pinophilus c30	#000000	30
+PG3703	Trichosporon coremiiforme c31	#000000	30
+R1214	[Candida] inconspicua c32	#000000	30
+M1707	Penicillium paneum c34	#000000	30
+M20-04A	Exophiala dermatitidis c35	#000000	30
+R30-23	Candida metapsilosis c36	#000000	30
+M2015	Pichia terricola c37	#000000	30
+PM2101E	Neopestalotiopsis sp. c38	#000000	30
+M2901	Paecilomyces lecythidis c39	#000000	30
+PG2906A	Rhodotorula mucilaginosa c4	#000000	30
+Y4204	Apiotrichum sp. c40	#000000	30
+M3602D	Aspergillus sp. c41	#000000	30
+S3601	Alternaria alternata c42	#000000	30
+PB3502S	Penicillium crustosum c43	#000000	30
+PK1605	Saccharomyces cerevisiae c44	#000000	30
+M7025A	Penicillium oxalicum c45	#000000	30
+P4013B	Clavispora lusitaniae c48	#000000	30
+PH4023	Saccharomycetales sp. c49	#000000	30
+R3406	Penicillium sp. c5	#000000	30
+P1801B	Naganishia albida c50	#000000	30
+PF3502	Talaromyces purpureogenus c51	#000000	30
+P2701V1	Aspergillus chevalieri c52	#000000	30
+PB4404	Aspergillus terreus c53	#000000	30
+P7048X-2	Monascus purpureus c54	#000000	30
+PB2201	Aspergillus tamarii c56	#000000	30
+R2416	Penicillium polonicum c57	#000000	30
+S2702	Aspergillus cristatus c58	#000000	30
+PB4401	Trichoderma harzianum c60	#000000	30
+S2209	Aspergillus neotritici c62	#000000	30
+PF30-1D	Talaromyces stollii c63	#000000	30
+PG009	Aspergillus uvarum c64	#000000	30
+R2701	Rhizopus arrhizus c65	#000000	30
+R1201	Chaetomium globosum c7	#000000	30
+PH4021C	Cryptococcus neoformans c71	#000000	30
+PL2406	Talaromyces rugulosus c73	#000000	30
+PM2405	Talaromyces rugulosus c74	#000000	30
+S1801	Aspergillus sp. c77	#000000	30
+R2305	Aspergillus ochraceus c78	#000000	30
+2NR911	Candida parapsilosis c8	#000000	30
+S1907	Aspergillus ruber c80	#000000	30
+B1607	Wickerhamomyces anomalus c83	#000000	30
+B7036	Pichia kluyveri c85	#000000	30
+B8007	[Candida] aaseri c86	#000000	30
+D2B6	Cladosporium velox c87	#000000	30
+DX8004	Wickerhamiella sorbophila c88	#000000	30
+M4009	Geotrichum candidum c9	#000000	30
+M-2-1	Aspergillus clavatus c90	#000000	30
+M2204	Apiotrichum brassicae c91	#000000	30
+M4303A	Cutaneotrichosporon dermatis c92	#000000	30
+M7004Y	Fusarium sp. c93	#000000	30
+M7017B	[Candida] boidinii c94	#000000	30
+M7023	Lachancea fermentati c95	#000000	30
+P1410A	Sporisorium graminicola c96	#000000	30
+P1411	Cutaneotrichosporon cutaneum c97	#000000	30
+P6004	Candida orthopsilosis c98	#000000	30
+P7018B	Torulaspora delbrueckii c99	#000000	30

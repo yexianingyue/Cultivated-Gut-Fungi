@@ -1,0 +1,11 @@
+TREE_COLORS
+SEPARATOR TAB
+
+DATA
+
+# phylum
+M5902|R2701	clade	#c77cff	normal	5
+R9020|PK4640	clade	#00bfc4	normal	5
+PT3309|S3305	clade	#f8766d	normal	5
+R8901|PM3604	clade	#7cae00	normal	5
+DX7706-2	clade	#ff7f00	normal	5

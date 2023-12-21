@@ -1,0 +1,24 @@
+DATASET_TEXT
+SEPARATOR TAB
+DATASET_LABEL	family name
+
+# 全局设置
+## 字体
+SIZE_FACTOR	1.2
+## label旋转角度
+ALIGN_TO_TREE	1
+## 图层移动
+MARGIN	-60
+
+DATA
+M7501	Mucoraceae	-1	#000000	bold	1	0
+S30-09	Sporidiobolaceae	-1	#000000	bold	1	0
+M6011	Trichosporonaceae	-1	#000000	bold	1	0
+B5901	Trichomonascaceae	-1	#000000	bold	1	0
+B1607	Phaffomycetaceae	-1	#000000	bold	1	0
+P7018B	Saccharomycetaceae	-1	#000000	bold	1	0
+B7036	Pichiaceae	-1	#000000	bold	1	0
+2NR911	Debaryomycetaceae	-1	#000000	bold	1	0
+PF1801	Chaetomiaceae	-1	#000000	bold	1	0
+PF30-1D	Trichocomaceae	-1	#000000	bold	1	0
+S1801	Aspergillaceae	-1	#000000	bold	1	0

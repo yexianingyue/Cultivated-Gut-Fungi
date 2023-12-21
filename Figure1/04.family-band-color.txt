@@ -1,0 +1,154 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+BORDER_WIDTH	0
+COLOR	#bebada
+DATASET_LABEL	family
+
+LEGEND_LABELS	Aspergillaceae	Debaryomycetaceae	Trichocomaceae	Pichiaceae	Trichosporonaceae	Saccharomycetaceae	Sporidiobolaceae	Mucoraceae	Phaffomycetaceae	Chaetomiaceae	Dipodascaceae	Trichomonascaceae
+LEGEND_COLORS	#0000ee	#1f78b4	#b2df8a	#33a02c	#fb9a99	#e31a1c	#fdbf6f	#ff7f00	#cab2d6	#6a3d9a	#ffff99	#b15928
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1	1	1
+LEGEND_TITLE	family
+
+
+MARGIN	5
+STRIP_WIDTH	60
+
+
+DATA
+PG113-03A	#0000ee	Aspergillaceae
+PF2412A	#0000ee	Aspergillaceae
+M1327	#0000ee	Aspergillaceae
+PG2902	#0000ee	Aspergillaceae
+S103-07	#0000ee	Aspergillaceae
+S1701	#0000ee	Aspergillaceae
+PG106-07D	#0000ee	Aspergillaceae
+R2504	#0000ee	Aspergillaceae
+PH3801	#0000ee	Aspergillaceae
+S2904	#0000ee	Aspergillaceae
+M103-07B1	#0000ee	Aspergillaceae
+Y2001A1	#0000ee	Aspergillaceae
+DX136-07W	#0000ee	Aspergillaceae
+Y4009A	#0000ee	Aspergillaceae
+M3602D	#0000ee	Aspergillaceae
+PA3604	#0000ee	Aspergillaceae
+R121-14B	#0000ee	Aspergillaceae
+DX121-18F	#0000ee	Aspergillaceae
+PF2411	#0000ee	Aspergillaceae
+M1707	#0000ee	Aspergillaceae
+R2305	#0000ee	Aspergillaceae
+Y4020	#0000ee	Aspergillaceae
+PG009	#0000ee	Aspergillaceae
+Y3614	#0000ee	Aspergillaceae
+PK20-01	#0000ee	Aspergillaceae
+PG3606D	#0000ee	Aspergillaceae
+PB4404	#0000ee	Aspergillaceae
+PB3502S	#0000ee	Aspergillaceae
+PH4033	#0000ee	Aspergillaceae
+S1801	#0000ee	Aspergillaceae
+PF1803	#0000ee	Aspergillaceae
+S90-01	#0000ee	Aspergillaceae
+S2209	#0000ee	Aspergillaceae
+PM3604	#0000ee	Aspergillaceae
+P2701V1	#0000ee	Aspergillaceae
+R2416	#0000ee	Aspergillaceae
+PB2201	#0000ee	Aspergillaceae
+R2309	#0000ee	Aspergillaceae
+M-2-1	#0000ee	Aspergillaceae
+M7025A	#0000ee	Aspergillaceae
+R3406	#0000ee	Aspergillaceae
+S1907	#0000ee	Aspergillaceae
+PF30-2	#0000ee	Aspergillaceae
+PB4204	#0000ee	Aspergillaceae
+P7048X-2	#0000ee	Aspergillaceae
+S2702	#0000ee	Aspergillaceae
+PT4103	#0000ee	Aspergillaceae
+2NR913A	#1f78b4	Debaryomycetaceae
+Y128-05C	#1f78b4	Debaryomycetaceae
+PH4014	#1f78b4	Debaryomycetaceae
+Y6105	#1f78b4	Debaryomycetaceae
+R30-23	#1f78b4	Debaryomycetaceae
+R1910	#1f78b4	Debaryomycetaceae
+B8007	#1f78b4	Debaryomycetaceae
+PYS2905	#1f78b4	Debaryomycetaceae
+P6004	#1f78b4	Debaryomycetaceae
+R6205-2	#1f78b4	Debaryomycetaceae
+PF3311	#1f78b4	Debaryomycetaceae
+Y131-23	#1f78b4	Debaryomycetaceae
+S3305	#1f78b4	Debaryomycetaceae
+2NR911	#1f78b4	Debaryomycetaceae
+X1902-2	#1f78b4	Debaryomycetaceae
+DX115-01	#33a02c	Pichiaceae
+PB3310	#33a02c	Pichiaceae
+F1605B	#33a02c	Pichiaceae
+R1214	#33a02c	Pichiaceae
+M2015	#33a02c	Pichiaceae
+B7036	#33a02c	Pichiaceae
+M7017B	#33a02c	Pichiaceae
+P8010B	#33a02c	Pichiaceae
+PB2809B	#33a02c	Pichiaceae
+F2013-T	#33a02c	Pichiaceae
+PH4023	#33a02c	Pichiaceae
+B2702	#6a3d9a	Chaetomiaceae
+PF1801	#6a3d9a	Chaetomiaceae
+R4402	#6a3d9a	Chaetomiaceae
+PYS4301M	#6a3d9a	Chaetomiaceae
+R1201	#6a3d9a	Chaetomiaceae
+B5901	#b15928	Trichomonascaceae
+PX1910	#b15928	Trichomonascaceae
+Y4102	#b15928	Trichomonascaceae
+PK3305	#b15928	Trichomonascaceae
+F6312	#b15928	Trichomonascaceae
+DX8004	#b15928	Trichomonascaceae
+PB3601	#b2df8a	Trichocomaceae
+F3606	#b2df8a	Trichocomaceae
+PYS2103	#b2df8a	Trichocomaceae
+PX1902	#b2df8a	Trichocomaceae
+B14P1	#b2df8a	Trichocomaceae
+P118-02	#b2df8a	Trichocomaceae
+PL2406	#b2df8a	Trichocomaceae
+PF30-1D	#b2df8a	Trichocomaceae
+PM2405	#b2df8a	Trichocomaceae
+J7Y3	#b2df8a	Trichocomaceae
+R5906	#b2df8a	Trichocomaceae
+PF3502	#b2df8a	Trichocomaceae
+X1601	#b2df8a	Trichocomaceae
+RG13M1	#b2df8a	Trichocomaceae
+Y91-04	#cab2d6	Phaffomycetaceae
+PG4208	#cab2d6	Phaffomycetaceae
+B1607	#cab2d6	Phaffomycetaceae
+Y1112B	#cab2d6	Phaffomycetaceae
+PB4207	#cab2d6	Phaffomycetaceae
+Y4206	#e31a1c	Saccharomycetaceae
+P8426	#e31a1c	Saccharomycetaceae
+B5408	#e31a1c	Saccharomycetaceae
+M5909	#e31a1c	Saccharomycetaceae
+M7023	#e31a1c	Saccharomycetaceae
+PK1605	#e31a1c	Saccharomycetaceae
+F7312	#e31a1c	Saccharomycetaceae
+PF2202	#e31a1c	Saccharomycetaceae
+Y1806	#e31a1c	Saccharomycetaceae
+P7018B	#e31a1c	Saccharomycetaceae
+PK3901	#e31a1c	Saccharomycetaceae
+M94-02A	#fb9a99	Trichosporonaceae
+PDH3307A	#fb9a99	Trichosporonaceae
+PT3311B	#fb9a99	Trichosporonaceae
+PK4640	#fb9a99	Trichosporonaceae
+PB005A	#fb9a99	Trichosporonaceae
+M4303A	#fb9a99	Trichosporonaceae
+PG3703	#fb9a99	Trichosporonaceae
+2NM914A	#fb9a99	Trichosporonaceae
+Y4204	#fb9a99	Trichosporonaceae
+P1411	#fb9a99	Trichosporonaceae
+PG5214	#fb9a99	Trichosporonaceae
+M6011	#fb9a99	Trichosporonaceae
+M2204	#fb9a99	Trichosporonaceae
+S30-09	#fdbf6f	Sporidiobolaceae
+M119-17A	#fdbf6f	Sporidiobolaceae
+M30-05A-2	#fdbf6f	Sporidiobolaceae
+PK2101B	#fdbf6f	Sporidiobolaceae
+PG2906A	#fdbf6f	Sporidiobolaceae
+M7501	#ff7f00	Mucoraceae
+PT2201-2	#ff7f00	Mucoraceae
+P1003	#ff7f00	Mucoraceae
+PT3309	#ffff99	Dipodascaceae
+M4009	#ffff99	Dipodascaceae
