@@ -20,16 +20,3 @@ The gut fungal community is an important component of human health, yet its func
 > #### Figure 1~6
 > The _R code_ corresponding to the main image and the `.RData` file used.
 
-##### [Figure1](./Figure1/)
-Visualize on the [iTOL](https://itol.embl.de/) website. Drag and drop the files in order to the website to get Figure 1. Only minor adjustments are needed afterwards.
-
-##### [Figure2](./Figure2/)
-
-##### [Figure3](./Figure3/)
-
-##### [Figure4](./Figure4/)
-
-##### [Figure5](./Figure5/)
-
-##### [Figure6](./Figure6/)
-
