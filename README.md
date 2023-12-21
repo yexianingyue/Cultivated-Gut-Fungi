@@ -22,33 +22,14 @@ The gut fungal community is an important component of human health, yet its func
 
 ##### [Figure1](./Figure1/)
 Visualize on the [iTOL](https://itol.embl.de/) website. Drag and drop the files in order to the website to get Figure 1. Only minor adjustments are needed afterwards.
-<div style="text-align:center">
-    <img src="./Figure1/Figure%201.png" style="height:50%;width:50%">
-</div>
 
 ##### [Figure2](./Figure2/)
-<div style="text-align:center">
-    <img src="./Figure2/Figure%202.png" style="height:50%;width:50%">
-</div>
-
 
 ##### [Figure3](./Figure3/)
-<div style="text-align:center">
-    <img src="./Figure3/Figure%203.png" style="height:50%;width:50%">
-</div>
 
 ##### [Figure4](./Figure4/)
-<div style="text-align:center">
-    <img src="./Figure4/Figure%204.png" style="height:50%;width:50%">
-</div>
 
 ##### [Figure5](./Figure5/)
-<div style="text-align:center">
-    <img src="./Figure5/Figure%205.png" style="height:50%;width:50%">
-</div>
 
 ##### [Figure6](./Figure6/)
 
-<div style="text-align:center">
-    <img src="./Figure6/Figure%206.png" style="height:50%;width:50%">
-</div>
