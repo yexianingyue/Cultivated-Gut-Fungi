@@ -1,4 +1,4 @@
-### 流程梗概
+## 一、流程梗概
 #### 1、物种的特有基因和共有基因
 想要进行这一步我们需要两个对应关系：基因组的物种信息、基因的聚类信息。 基因聚类，我们使用MMseqs2软件对所有真菌的基因核酸序列进行聚类(一些参数)。聚类完成后根据基因组注释信息，就可以得获取哪些基因是特有的，哪些是共有的情况。
 
@@ -8,6 +8,7 @@
 3、如果一条reads比对到了多个物种的特有基因或物种的共有基因上，则根据第2步计算的结果对这一条reads按比例分配后加和到最初的reads count
 4、最后根据每个基因组的特有基因的长度归一化相对丰度
 
+## 二、Example
 ### 1.gene cluster
 ```
 mmseqs easy-cluster genes/* database/geneset tmp --min-seq-id 0.95 --cov-mode 1 -c 0.9 --cluster-mode 2 --cluster-reassign 1 --kmer-per-seq 200 --kmer-per-seq-scale 0.8 --threads 80 --compressed 1 \
