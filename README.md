@@ -20,3 +20,6 @@ The gut fungal community is an important component of human health, yet its func
 > #### Figure 1~6
 > The _R code_ corresponding to the main image and the `.RData` file used.
 
+#### Update Database
+我们在2024年12月份从NCBI新加了一一部分人相关的真菌基因组到其中，建库的文件都在里面，`build_db.sh`中有建库的步骤
+https://pan.baidu.com/s/1r_Gp5HfhLFizucgSaMhEMA?pwd=tt66
